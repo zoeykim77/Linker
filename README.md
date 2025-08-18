@@ -63,4 +63,4 @@ discussion/
 
 ## 문의
 
-- 프로젝트 담당자: [GitHub 프로필 링크 혹은 이메일 입력]
+- 프로젝트 담당자: (https://github.com/fillgeun)
